@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# stringanalyzer-stage-1
-=======
 # 🧠 Backend Wizards – Stage 1 Task: String Analyzer API
 
 *A RESTful API that analyzes strings, computes their properties, and supports advanced filtering.*
